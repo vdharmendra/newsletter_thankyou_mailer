@@ -4,3 +4,4 @@
 
 ### SHOP NOW BUTTON
 -- link to product page --
+<img scr="https://raw.githubusercontent.com/vdharmendra/newsletter_thankyou_mailer/refs/heads/main/mailer-template.png" alt="newsletter-thankyou-mailer" />
