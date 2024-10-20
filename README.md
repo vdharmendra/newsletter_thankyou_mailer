@@ -1,4 +1,5 @@
-# Newsletter Thank You Mailer <a href="https://www.behance.net/dhirukumar">Behance Profile </a>
+# Newsletter Thank You Mailer 
+<a href="https://www.behance.net/dhirukumar">Behance Profile </a>
 
 ##To say thank you for signing up, I am offering you a 25% discount on your first purchase.
 
